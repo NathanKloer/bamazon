@@ -10,3 +10,5 @@ Depending on the stock remaining of that item, it will show the user a message. 
 the cart has been updated or that there was not enough stock left for their purchase.
 
 mySQL will update if an item was added to the cart.
+
+video of it here http://recordit.co/VQGnDcJbVp
